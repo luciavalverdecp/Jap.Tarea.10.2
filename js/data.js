@@ -1,0 +1,1 @@
+document.querySelector("#data").innerHTML = localStorage.getItem("texto");
